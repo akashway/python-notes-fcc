@@ -59,6 +59,10 @@ expect that it will raise a TypeError.
 If it does, the test passes. If it doesn't raise a TypeError, 
 the test fails.”
 
+"Expect a TypeError to be raised when calling square('cat')."
+
+“While I'm inside this with block, I expect this specific thing (a TypeError) to happen.”
+
 since my 
 def square(x):
     # return x*x

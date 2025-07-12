@@ -54,7 +54,7 @@ hello, my name is Akash Mishra
 
 
 #some approach where seprate the logic and error part but if we run like
-# this we will get error think what error coul be
+# this we will get error think what error could be
 '''
 if len(sys.argv)<2:
     print("Too few arguments")
@@ -74,7 +74,7 @@ print("hello, my name is",sys.argv[1])
 '''
 
 '''
-if len(sys.argv)<2:
+if len(sys.argv)<
     sys.exit("too few arguments")
 
 for arg in sys.argv:
